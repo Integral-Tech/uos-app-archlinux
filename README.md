@@ -1,5 +1,10 @@
 # 在 Arch Linux 及其衍生发行版上运行统信 UOS 软件
-
+## 包名与软件名的对应关系
+- boardmix-uos -> Boardmix
+- yuntucad-uos -> 云图三维
+- kdocs-uos -> 金山文档
+- rishiqing-uos -> 日事清
+- pixso-uos -> Pixso
 ## 安装
 ### 从 AUR 安装
 可用 paru（推荐）或 yay 安装：
